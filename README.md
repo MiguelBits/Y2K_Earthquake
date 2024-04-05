@@ -1,4 +1,4 @@
-# Y2K
+# Y2K [Code4rena Audit](https://code4rena.com/reports/2022-09-y2k-finance)
 
 ![image](https://user-images.githubusercontent.com/15989933/168874410-a2ce1798-8d72-4fce-a6ba-b61d4303a3e9.png)
 
